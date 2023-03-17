@@ -15,6 +15,7 @@
               <ul class="">
                 <li>- about page</li>
                 <li>- add cancel button when deleting lesson or card</li>
+                <li>- add sql script to repository to create db</li>
                 <li>- control flow when studying (going back and forth)</li>
                 <li>- better management of study result, keep track if studying aborted etc. (oo?)</li>
                 <li>- user management</li>
